@@ -1,5 +1,5 @@
 function Logo() {
-  return <div className="p-8 animate-pulse font-bold">Youth App</div>;
+  return <div className="md:p-8 p-2 animate-pulse font-bold">Youth App</div>;
 }
 
 export default Logo;

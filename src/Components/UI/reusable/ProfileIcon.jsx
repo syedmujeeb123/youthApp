@@ -1,6 +1,6 @@
 function ProfileIcon() {
   return (
-    <div className="flex justify-center items-center p-8">
+    <div className="flex justify-center items-center md:p-8 p-2">
       <div className="w-8 h-8 bg-gradient-to-tr from-indigo-500 to-purple-500 rounded-full flex justify-center items-center shadow-lg hover:scale-125 transition-transform duration-300 cursor-pointer">
         <svg
           width="25"
